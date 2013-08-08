@@ -24,8 +24,9 @@ This gem works with Rails 4 (only)
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this lines to your application's Gemfile:
 
+    gem 'd3_rails', github: 'everaldo/d3_rails'
     gem 'cal_heatmap_rails', github: 'everaldo/cal_heatmap_rails'
 
 And then execute:
