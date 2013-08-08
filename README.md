@@ -1,12 +1,32 @@
-# CalHeatmapRails
+## Rails
 
-TODO: Write a gem description
+This gem works with Rails 4 (only)
+
+
+# D3_Rails
+
+## Version 3.2.8 (of d3 in most current gem)
+
+
+# Included Javascripts
+
+
+    cal_heatmap_rails.js
+    cal-heatmap.js
+    cal-heatmap-min.js
+
+
+# Included Stylesheets
+
+    cal_heatmap_rails.css
+    cal-heatmap.css
+
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'cal_heatmap_rails'
+    gem 'cal_heatmap_rails', '~> 3.2.8', github: 'everaldo/cal_heatmap_rails'
 
 And then execute:
 
@@ -18,7 +38,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For use with the asset pipeline, you can include the cal\_heatmap\_rails  javascript in your rails application by merely including the following line in your application.js manifest
+
+  //= require cal\_heatmap\_rails
+  
+and in your application.css manifest:
+
+ \*= require cal\_heatmap\_rails  
+
 
 ## Contributing
 
