@@ -26,7 +26,7 @@ This gem works with Rails 4 (only)
 
 Add this line to your application's Gemfile:
 
-    gem 'cal_heatmap_rails', '~> 3.2.8', github: 'everaldo/cal_heatmap_rails'
+    gem 'cal_heatmap_rails', github: 'everaldo/cal_heatmap_rails'
 
 And then execute:
 
