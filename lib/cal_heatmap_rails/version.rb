@@ -1,4 +1,4 @@
 module CalHeatmapRails
-  CAL_HEATMAP_VERSION = "3.1.0"
-  VERSION = "0.0.3"
+  CAL_HEATMAP_VERSION = "3.3.8"
+  VERSION = "0.0.4"
 end
