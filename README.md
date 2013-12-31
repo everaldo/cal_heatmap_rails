@@ -5,7 +5,7 @@ This gem works with Rails 4 (only)
 
 # D3_Rails
 
-## Version 3.3.8 (of d3 in most current gem)
+## Version 3.2.8 (of d3 in most current gem)
 
 
 # Included Javascripts
